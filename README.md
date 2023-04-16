@@ -17,3 +17,4 @@
 <div>
     ![Snake animation](https://github.com/raulbbrit/raulbbrit/blob/output/github-contribution-grid-snake.svg)
 </div>
+
