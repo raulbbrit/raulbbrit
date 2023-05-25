@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -8,6 +9,7 @@
     </td>
   </tr>
 </p>
+-->
 <h3 align="left">Connect with me:</h3>
 
 <p>
